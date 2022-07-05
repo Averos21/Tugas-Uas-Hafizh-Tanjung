@@ -13,7 +13,7 @@ Pustaka booking web programming 3
     <td>
       <b>Name</b>
     </td>
-    <td>Hafizh Taanjung
+    <td>Hafizh Tanjung
     </td>
   </tr>
   <tr>
