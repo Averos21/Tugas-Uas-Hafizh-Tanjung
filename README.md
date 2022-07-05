@@ -6,14 +6,14 @@ Pustaka booking web programming 3
     <td>
       <b>Nim</b>
     </td>
-    <td>19200077
+    <td>19200575
     </td>
   </tr>
   <tr>
     <td>
       <b>Name</b>
     </td>
-    <td>Adan Aidan Teras
+    <td>Hafizh Taanjung
     </td>
   </tr>
   <tr>
